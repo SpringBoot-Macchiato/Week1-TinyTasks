@@ -1,0 +1,7 @@
+/home/juancamilo/Música/Week1-TinyTasks/backend/src/main/java/com/crudzaso/TinyTasks/TinyTasksApplication.java
+/home/juancamilo/Música/Week1-TinyTasks/backend/src/main/java/com/crudzaso/TinyTasks/config/CorsConfig.java
+/home/juancamilo/Música/Week1-TinyTasks/backend/src/main/java/com/crudzaso/TinyTasks/controller/TodoController.java
+/home/juancamilo/Música/Week1-TinyTasks/backend/src/main/java/com/crudzaso/TinyTasks/model/Todo.java
+/home/juancamilo/Música/Week1-TinyTasks/backend/src/main/java/com/crudzaso/TinyTasks/repository/TodoRepository.java
+/home/juancamilo/Música/Week1-TinyTasks/backend/src/main/java/com/crudzaso/TinyTasks/repository/TodoRepositoryImp.java
+/home/juancamilo/Música/Week1-TinyTasks/backend/src/main/java/com/crudzaso/TinyTasks/service/TodoService.java

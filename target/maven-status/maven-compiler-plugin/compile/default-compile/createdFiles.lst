@@ -1,0 +1,7 @@
+com/crudzaso/TinyTasks/repository/TodoRepository.class
+com/crudzaso/TinyTasks/TinyTasksApplication.class
+com/crudzaso/TinyTasks/config/CorsConfig.class
+com/crudzaso/TinyTasks/service/TodoService.class
+com/crudzaso/TinyTasks/repository/TodoRepositoryImp.class
+com/crudzaso/TinyTasks/controller/TodoController.class
+com/crudzaso/TinyTasks/model/Todo.class
