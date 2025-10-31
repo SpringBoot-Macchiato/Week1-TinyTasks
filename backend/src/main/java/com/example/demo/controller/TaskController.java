@@ -12,6 +12,7 @@ import java.util.Map;
 
 @RequestMapping("api/task")
 @RestController
+@CrossOrigin(origins = "http://localhost:5173")
 public class TaskController {
 
     private final TaskService taskService = new TaskService();
